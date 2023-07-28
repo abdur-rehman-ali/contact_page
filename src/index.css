@@ -26,6 +26,10 @@ a {
   text-decoration: none;
 }
 
+:root {
+  --grey: #5A5959
+}
+
 .container {
   margin: 0 auto;
   max-width: 90%;
