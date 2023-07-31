@@ -3,7 +3,7 @@
 
 # Learning from project
 
-- Convert Figma desing to functional components
+- Convert Figma design to code
 - Creating reusable components
 - Associating states with form
 - Use of useState hook
